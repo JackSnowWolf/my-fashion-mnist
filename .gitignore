@@ -1,0 +1,6 @@
+model/
+tboard/
+
+*.pyx
+__pycache__/
+.idea/
